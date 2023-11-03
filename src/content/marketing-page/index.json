@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "YIMBYtown 2024",
+    "date": "Feb 27 - 29, 2023",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "Austin, TX",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
