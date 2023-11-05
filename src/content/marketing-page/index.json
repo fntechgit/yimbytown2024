@@ -18,7 +18,10 @@
       {
         "src": "yimbytown-keyimage_768x420.jpg"
       }
-    ]
+    ],
+    "background": {
+      "src": "the-perfect-itinerary-for-3-days-in-austin-tx-a-locals-guide-776189.webp"
+    }
   },
   "countdown": {
     "display": true,
