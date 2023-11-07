@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "YIMBYtown 2024",
+    "title": "",
     "date": "Feb 26 - 28, 2023",
     "dateLayout": true,
     "time": "Austin, TX",
@@ -16,11 +16,12 @@
     },
     "images": [
       {
-        "src": "yimbytown-keyimage_768x420.jpg"
+        "src": "yimbytown-elements.jpg"
       }
     ],
     "background": {
-      "src": "the-perfect-itinerary-for-3-days-in-austin-tx-a-locals-guide-776189.webp"
+      "src": "7ffed12b-9a1d-41a5-83c8-5c58a0dd1445.jpg",
+      "alt": "Picture of a large dark room with a well lit stage with a panel of four people speaking in front of a screen that says YIMBYtown 2022"
     }
   },
   "countdown": {
@@ -45,10 +46,10 @@
       "size": 2,
       "images": [
         {
-          "src": "tier1-default-space3.png"
+          "src": "yimbytown-posters_01.jpg"
         },
         {
-          "src": "tier1-default-space4.png"
+          "src": "yimbytown-posters_02.jpg"
         }
       ]
     },
