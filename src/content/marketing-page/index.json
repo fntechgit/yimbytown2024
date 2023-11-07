@@ -53,9 +53,6 @@
         },
         {
           "src": "yimbytown-posters_03.jpg"
-        },
-        {
-          "src": "yimbytown-posters_04.jpg"
         }
       ]
     },
@@ -64,7 +61,7 @@
       "size": 1,
       "images": [
         {
-          "src": "tier1-default-space2.png"
+          "src": "yimbytown-posters_04.jpg"
         }
       ]
     },
