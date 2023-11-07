@@ -61,17 +61,17 @@
       {
         "icon": "fa-facebook",
         "link": "/footer-content/",
-        "display": true
+        "display": false
       },
       {
         "icon": "fa-twitter",
-        "link": "/footer-content/",
+        "link": "https://twitter.com/YIMBYtown",
         "display": true
       },
       {
         "icon": "fa-linkedin",
         "link": "/footer-content/",
-        "display": true
+        "display": false
       }
     ]
   },
