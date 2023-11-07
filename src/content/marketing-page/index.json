@@ -14,13 +14,9 @@
         "display": true
       }
     },
-    "images": [
-      {
-        "src": "yimbytown-elements.jpg"
-      }
-    ],
+    "images": [],
     "background": {
-      "src": "7ffed12b-9a1d-41a5-83c8-5c58a0dd1445.jpg",
+      "src": "yimbytown-elements.jpg",
       "alt": "Picture of a large dark room with a well lit stage with a panel of four people speaking in front of a screen that says YIMBYtown 2022"
     }
   },
