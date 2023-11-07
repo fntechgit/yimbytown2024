@@ -60,7 +60,7 @@
       "size": 1,
       "images": [
         {
-          "src": "logotype-color.png"
+          "src": "tier1-default-space2.png"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "size": 2,
       "images": [
         {
-          "src": "tier1-default-space4.png"
+          "src": "logotype-color.png"
         }
       ]
     }
