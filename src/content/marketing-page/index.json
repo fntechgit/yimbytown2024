@@ -16,11 +16,11 @@
     },
     "images": [
       {
-        "src": "bannerright.png"
+        "src": "yimbytown-keyimage-blue.png.png"
       }
     ],
     "background": {
-      "src": "bannerleft.png",
+      "src": "",
       "alt": ""
     }
   },
