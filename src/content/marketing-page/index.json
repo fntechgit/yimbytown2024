@@ -2,7 +2,7 @@
   "hero": {
     "title": "",
     "date": "Feb 26 - 28, 2023",
-    "dateLayout": true,
+    "dateLayout": false,
     "time": "Austin, TX",
     "buttons": {
       "registerButton": {
