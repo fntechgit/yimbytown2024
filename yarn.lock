@@ -1986,10 +1986,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.69":
-  version "2.0.69"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.69.tgz#e1d12a0b363722ce9c9206b94039ba7a65b21f38"
-  integrity sha512-lRAdzYPUKsxyRTcNObH1v6nCA4zknM1n9OxKsqJfPLygo1kZgJ2xAY3qO7SVSw/N2WQR80+YbSUEa5L8ImPkPw==
+"@openeventkit/event-site@2.0.71":
+  version "2.0.71"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.71.tgz#7cd4af639c2e0de2dfe884faee907233ab4cc718"
+  integrity sha512-BAJB+rtmA/okiwM4eD3N2ZVz7UBsnEsQfPNr+o9ZO/b+YBP6U0Tid0N+pkgmUk0qXh3n+P0RT3ArWrNhYJ9sqw==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@mux/mux-player-react" "^1.14.1"
@@ -2058,6 +2058,7 @@
     lodash "^4.17.19"
     lz-string "^1.4.4"
     markdown-it "^12.0.0"
+    markdown-to-jsx "^7.3.2"
     moment "^2.27.0"
     moment-timezone "^0.5.31"
     netlify-cms-app "^2.15.72"
@@ -11021,6 +11022,11 @@ markdown-table@^2.0.0:
   integrity sha512-Ezda85ToJUBhM6WGaG6veasyym+Tbs3cMAw/ZhOPqXiYsr0jgocBV3j3nx+4lk47plLlIqjwuTm/ywVI+zjJ/A==
   dependencies:
     repeat-string "^1.0.0"
+
+markdown-to-jsx@^7.3.2:
+  version "7.3.2"
+  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.3.2.tgz#f286b4d112dad3028acc1e77dfe1f653b347e131"
+  integrity sha512-B+28F5ucp83aQm+OxNrPkS8z0tMKaeHiy0lHJs3LqCyDQFtWuenaIrkaVTgAm1pf1AU85LXltva86hlaT17i8Q==
 
 material-colors@^1.2.1:
   version "1.2.6"
