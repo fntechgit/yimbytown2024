@@ -44,12 +44,12 @@
   },
   "siteFont": {
     "regularFont": {
-      "fontFile": "/static/fonts/manual-expanded-thin.otf",
+      "fontFile": "/static/fonts/manual-expanded-extralight.otf",
       "fontFormat": "otf"
     },
     "fontFamily": "Manual-Expanded",
     "boldFont": {
-      "fontFile": "/static/fonts/manual-expanded-bold.otf",
+      "fontFile": "/static/fonts/manual-expanded-light.otf",
       "fontFormat": "otf"
     }
   }
