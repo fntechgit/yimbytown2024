@@ -44,7 +44,7 @@
   },
   "siteFont": {
     "regularFont": {
-      "fontFile": "/static/fonts/manual-expanded-regular.otf",
+      "fontFile": "/static/fonts/manual-expanded-thin.otf",
       "fontFormat": "otf"
     },
     "fontFamily": "Manual-Expanded",
