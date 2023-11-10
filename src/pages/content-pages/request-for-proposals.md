@@ -7,9 +7,9 @@ userRequirement: NONE
 
 We’re inviting proposals for keynote speakers, panels, trainings, and opportunities to collaborate, laying the groundwork for housing abundance and sustainable cities.
 
-Please submit your ideas by Thursday, November 30.
+[Click here to register as a proposed speaker and submit your ideas by Thursday, November 30.](https://speakermgmt.fnvirtual.app/app/yimbytown2024)
 
-**Keynotes**\
+**[](https://speakermgmt.fnvirtual.app/app/yimbytown2024)Keynotes**\
 Propose a talk
 
 Speak to the entire YIMBYtown audience plus local Austinites.
