@@ -11,7 +11,7 @@
       },
       "loginButton": {
         "text": "Log In",
-        "display": false
+        "display": true
       }
     },
     "images": [
