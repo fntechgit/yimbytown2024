@@ -106,7 +106,7 @@
         "ANY"
       ],
       "title": "Request for Proposals",
-      "link": "/a/Request-for-proposals",
+      "link": "/Request-for-proposals",
       "display": true
     },
     {
@@ -116,7 +116,7 @@
         "ANY"
       ],
       "title": "Registration",
-      "link": "/a/registration",
+      "link": "/registration",
       "display": true
     }
   ]
