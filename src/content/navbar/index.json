@@ -98,6 +98,16 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "RFP",
+      "link": "/RFP",
+      "display": true
     }
   ]
 }
