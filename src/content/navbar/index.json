@@ -105,9 +105,9 @@
       "pageRestriction": [
         "ANY"
       ],
-      "title": "RFP",
-      "link": "/RFP",
-      "display": true
+      "title": "Request for Proposals",
+      "link": "/Requestforproposals",
+      "display": false
     }
   ]
 }
