@@ -108,6 +108,16 @@
       "title": "Request for Proposals",
       "link": "/a/Request-for-proposals",
       "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Registration",
+      "link": "/a/registration",
+      "display": true
     }
   ]
 }
