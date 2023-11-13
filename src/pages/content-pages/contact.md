@@ -3,7 +3,7 @@ templateKey: content-page
 title: Contact
 userRequirement: NONE
 ---
-![](yimbytown-elements.jpg)
+![](yimbytown-elements_busforward.png)
 
 YIMBYtown 2024 is co-hosted by AURA and Farm&City
 
