@@ -1,9 +1,9 @@
 ---
 templateKey: content-page
-title: About
+title: ""
 userRequirement: NONE
 ---
-![]()
+![](yimbytown-header_about.jpg)
 
 **About YIMBYtown**
 
