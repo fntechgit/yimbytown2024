@@ -3,7 +3,7 @@ templateKey: content-page
 title: Registration
 userRequirement: NONE
 ---
-![](yimbytown-elements.jpg)
+![]()
 
 We look forward to welcoming you, and together, we can make a meaningful impact in the world of housing and urbanism. We have established three levels of registration:
 
@@ -18,3 +18,5 @@ We welcome those who care about building abundant housing and want to attend YIM
 
 **Travel and Lodging Assistance**\
 Thanks to the generous support of our sponsors, we are also offering travel scholarships and lodging assistance. The form to apply for travel and lodging assistance is expected to be available November 30th.
+
+[Register now!](https://yimby.town/#registration=1)
