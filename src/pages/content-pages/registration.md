@@ -17,4 +17,4 @@ We welcome nonprofit staff, volunteer advocates, academics, students, and others
 We welcome those who care about building abundant housing and want to attend YIMBYtown – but for whom registration cost would be a barrier – to self-select for complimentary registration. This ensures that YIMBYtown remains an inclusive and welcoming platform where voices from all walks of life can come together to explore solutions and drive positive change in the housing landscape. We are immensely grateful to our sponsors for making this commitment to inclusivity possible.
 
 **Travel and Lodging Assistance**\
-Thanks to the generous support of our sponsors, we are also offering travel scholarships and lodging assistance. The form to apply for travel and lodging assistance is expected to be available November 15th.
+Thanks to the generous support of our sponsors, we are also offering travel scholarships and lodging assistance. The form to apply for travel and lodging assistance is expected to be available November 30th.
