@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Request for Proposals
+title: ""
 userRequirement: NONE
 ---
 ![](yimbytown-header_requestforproposals.jpg)
