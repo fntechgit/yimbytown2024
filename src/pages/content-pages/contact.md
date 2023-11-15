@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Contact
+title: ""
 userRequirement: NONE
 ---
 ![](yimbytown-headers_contact.jpg)
