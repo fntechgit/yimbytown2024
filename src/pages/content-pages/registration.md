@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Registration
+title: ""
 userRequirement: NONE
 ---
 ![](yimbytown-header_registration.jpg)
