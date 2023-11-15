@@ -3,7 +3,7 @@ templateKey: content-page
 title: Registration
 userRequirement: NONE
 ---
-![]()
+![](yimbytown-header_registration.jpg)
 
 We look forward to welcoming you, and together, we can make a meaningful impact in the world of housing and urbanism. We have established three levels of registration:
 
