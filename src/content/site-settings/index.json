@@ -52,5 +52,9 @@
       "fontFile": "/static/fonts/manual-expanded-light.otf",
       "fontFormat": "otf"
     }
+  },
+  "siteMetadata": {
+    "description": "<!-- HTML Meta Tags -->\n  <title>preview image</title>\n  <meta name=\"description\" content=\"social media preview image\">\n\n  <!-- Facebook Meta Tags -->\n  <meta property=\"og:url\" content=\"http://yimby.town\">\n  <meta property=\"og:type\" content=\"website\">\n  <meta property=\"og:title\" content=\"preview image\">\n  <meta property=\"og:description\" content=\"social media preview image\">\n  <meta property=\"og:image\" content=\"static/img/yimbytown-keyimage-blue.png.png\">\n\n  <!-- Twitter Meta Tags -->\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\n  <meta property=\"twitter:domain\" content=\"yimby.town\">\n  <meta property=\"twitter:url\" content=\"http://yimby.town\">\n  <meta name=\"twitter:title\" content=\"preview image\">\n  <meta name=\"twitter:description\" content=\"social media preview image\">\n  <meta name=\"twitter:image\" content=\"static/img/yimbytown-keyimage-blue.png.png\">\n\n  <!-- Meta Tags Generated via https://www.opengraph.xyz -->\n        ",
+    "title": "Preview image meta tags"
   }
 }
