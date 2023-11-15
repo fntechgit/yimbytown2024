@@ -3,7 +3,7 @@ templateKey: content-page
 title: ""
 userRequirement: NONE
 ---
-![](yimbytown-header_about.jpg)
+![](yimbytown-header_about-1-.jpg)
 
 **About YIMBYtown**
 
