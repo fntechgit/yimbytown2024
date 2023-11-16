@@ -37,10 +37,8 @@
       "build_time": 1684857645226
     }
   ],
-  "favicons": {
-    "favicon180": "/img/favicon.png",
-    "favicon32": "/img/favicon.png",
-    "favicon16": "/img/favicon.png"
+  "favicon": {
+    "asset": "yimbi-favicon-red.png"
   },
   "siteFont": {
     "regularFont": {
