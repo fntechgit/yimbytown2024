@@ -7,9 +7,11 @@ userRequirement: NONE
 
 **About YIMBYtown**
 
-YIMBYtown is the premier nationwide conference for pro-housing advocates, organizers, and policymakers. Over several days of trainings, panels, discussions, speeches, and networking, YIMBYtown provides vital space for the pro-housing movement to connect, learn, share, wrestle with difficult questions, and lay the groundwork for the next great burst of wins for abundant housing across the country. Previously hosted in Boulder, Colorado; Boston, Massachusetts; Oakland, California; and Portland, Oregon, YIMBYtown has engaged, empowered, and connected thousands of leading pro-housing activists from North America and beyond.
+YIMBYtown is the premier nationwide conference for pro-housing advocates, organizers, and policymakers. Over several days of trainings, panels, discussions, speeches, and networking, YIMBYtown provides vital space for the pro-housing movement to connect, learn, share, wrestle with difficult questions, and lay the groundwork for the next great burst of wins for abundant housing across the country.
 
-YIMBYtown 2024 will be held on the campus of UT-Austin on Monday & Tuesday, February 26 & 27, with potential auxiliary events on the 25th and 28th. AURA and Farm&City are the lead local partners, working closely with the Welcoming Neighbors Network to bring together the event and bring people from across the State of Texas and the nation.
+Previously hosted in Boulder, Colorado; Boston, Massachusetts; Oakland, California; and Portland, Oregon, YIMBYtown has engaged, empowered, and connected thousands of leading pro-housing activists from North America and beyond.
+
+YIMBYtown 2024 will be held on the campus of UT-Austin on Monday, February 26th through Wednesday, February 28th, bringing together pro-housing champions from across the State of Texas and the nation.
 
 **About the Host Organizations**
 
