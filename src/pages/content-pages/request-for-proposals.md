@@ -9,7 +9,7 @@ userRequirement: NONE
 
 We’re inviting proposals for keynote speakers, panels, trainings, and opportunities to collaborate, laying the groundwork for housing abundance and sustainable cities.
 
-[Click here to register as a proposed speaker and submit your ideas by Wednesday, December 13.](https://speakermgmt.fnvirtual.app/app/yimbytown2024)
+**[Click here to register as a proposed speaker and submit your ideas by Wednesday, December 13.](https://speakermgmt.fnvirtual.app/app/yimbytown2024)**
 
 [](https://speakermgmt.fnvirtual.app/app/yimbytown2024)**Keynotes**\
 Propose a talk
