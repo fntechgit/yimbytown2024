@@ -5,7 +5,9 @@ userRequirement: NONE
 ---
 ![](yimbytown-header_registration-1-.jpg)
 
-We look forward to welcoming you, and together, we can make a meaningful impact in the world of housing and urbanism. We have established three levels of registration:
+We look forward to welcoming you, and together, we can make a meaningful impact in the world of housing and urbanism. We have established three levels of registration.
+
+# [Register now](https://yimby.town/#registration=1)
 
 **Full Registration - $395**\
 Full registration fees contribute to covering a wide range of essential costs that go into making YIMBYtown 2024 a success, including the space for bringing so many people together, food and logistics, as well as speaker costs. We appreciate your support.
@@ -19,4 +21,7 @@ We welcome those who care about building abundant housing and want to attend YIM
 **Travel and Lodging Assistance**\
 Thanks to the generous support of our sponsors, we are also offering travel scholarships and lodging assistance. The form to apply for travel and lodging assistance is expected to be available November 30th.
 
-[Register now!](https://yimby.town/#registration=1)
+# [Register now](https://yimby.town/#registration=1)
+
+**Media**\
+We expect to make complimentary registrations available to media. If you would like to cover YIMBYtown 2024, please contact us at liz@yimby.town.
