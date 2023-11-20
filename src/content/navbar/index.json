@@ -58,8 +58,8 @@
     },
     {
       "title": "Sponsors ",
-      "link": "/sponsors/",
-      "display": true,
+      "link": "/a/sponsors/",
+      "display": false,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
