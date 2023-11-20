@@ -50,13 +50,13 @@
       "size": 2,
       "images": [
         {
+          "src": "bikeshare.jpg"
+        },
+        {
           "src": "cherrywood_audience.jpg"
         },
         {
-          "src": "bikeshare.jpeg"
-        },
-        {
-          "src": "7ffed12b-9a1d-41a5-83c8-5c58a0dd1445.jpg"
+          "src": "yimbytown2022.jpg"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "size": 1,
       "images": [
         {
-          "src": "skyline-bluegray.jpeg"
+          "src": "aura-farmcity.jpg"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "size": 1,
       "images": [
         {
-          "src": "farm_city-logo-horizontal-cmyk.jpg"
+          "src": "multimodal.jpg"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "size": 2,
       "images": [
         {
-          "src": "logotype-color.png"
+          "src": "skyline-bluegray484x968.jpg"
         }
       ]
     }
