@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Sponsorship
+title: Sponsorship Opportunities
 userRequirement: NONE
 ---
 ![](yimbytownemailheader.png)
