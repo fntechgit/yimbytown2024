@@ -59,7 +59,7 @@
     {
       "title": "Sponsor ",
       "link": "/a/sponsors/",
-      "display": false,
+      "display": true,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
