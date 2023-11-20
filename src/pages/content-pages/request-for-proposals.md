@@ -3,7 +3,7 @@ templateKey: content-page
 title: ""
 userRequirement: NONE
 ---
-![](yimbytown-header_request.jpg)
+![Request For Proposals](yimbytown-header_request.jpg)
 
 **Got an idea for a talk or panel at YIMBYtown 2024?**
 
