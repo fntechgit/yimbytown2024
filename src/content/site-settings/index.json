@@ -52,7 +52,8 @@
     }
   },
   "siteMetadata": {
-    "description": "<!-- HTML Meta Tags -->\n  <title>preview image</title>\n  <meta name=\"description\" content=\"social media preview image\">\n\n  <!-- Facebook Meta Tags -->\n  <meta property=\"og:url\" content=\"http://yimby.town\">\n  <meta property=\"og:type\" content=\"website\">\n  <meta property=\"og:title\" content=\"preview image\">\n  <meta property=\"og:description\" content=\"social media preview image\">\n  <meta property=\"og:image\" content=\"static/img/yimbytown-keyimage-blue.png.png\">\n\n  <!-- Twitter Meta Tags -->\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\n  <meta property=\"twitter:domain\" content=\"yimby.town\">\n  <meta property=\"twitter:url\" content=\"http://yimby.town\">\n  <meta name=\"twitter:title\" content=\"preview image\">\n  <meta name=\"twitter:description\" content=\"social media preview image\">\n  <meta name=\"twitter:image\" content=\"static/img/yimbytown-keyimage-blue.png.png\">\n\n  <!-- Meta Tags Generated via https://www.opengraph.xyz -->\n        ",
-    "title": "Preview image meta tags"
+    "description": "Join us in the vibrant and rapidly evolving city of Austin, TX, February 26-28th for the groundbreaking YIMBYtown 2024 conference! AURA and Farm&City are delighted to host the premiere national forum for conversation and collaboration in the movement for abundant, affordable, and sustainable cities. This year, we are celebrating wins across North America, the expansive \"big tent\" nature of our movement, and the burgeoning YIMBY scene in Texas.",
+    "title": "YIMBYtown 2024 Conference, Austin, TX, Feb 26-28, 2024",
+    "image": "yimbytown-posters_01.jpg"
   }
 }
