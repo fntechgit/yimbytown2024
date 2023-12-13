@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: RFP
+title: ""
 userRequirement: NONE
 ---
 ![Request For Proposals](yimbytown-header_request.jpg)
