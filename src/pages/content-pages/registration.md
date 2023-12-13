@@ -18,8 +18,14 @@ We welcome nonprofit staff, volunteer advocates, academics, students, and others
 **Needs Based Complimentary Registration**\
 We welcome those who care about building abundant housing and want to attend YIMBYtown – but for whom registration cost would be a barrier – to self-select for complimentary registration. This ensures that YIMBYtown remains an inclusive and welcoming platform where voices from all walks of life can come together to explore solutions and drive positive change in the housing landscape. We are immensely grateful to our sponsors for making this commitment to inclusivity possible.
 
-**Travel and Lodging Assistance**\
-Thanks to the generous support of our sponsors, we are also offering travel scholarships and lodging assistance. The form to apply for travel and lodging assistance is expected to be available November 30th.
+
+**Equitable Access Program: Travel and Lodging Subsidies**
+
+At the heart of the YIMBYtown Conference is our unwavering commitment to making participation accessible and inclusive. To that end, we are continuing the YIMBYtown tradition of providing funding to selected eligible attendees, with the goal of making YIMBYtown 2024 as diverse and accessible as the YIMBY communities we work towards. \
+\
+The program is available to anyone who will commit to attending all three days of YIMBYtown, and will be dedicated on a first-come first serve basis.
+
+**[Apply for the YIMBYtown 2024 Equitable Access Program](https://forms.gle/b459SRZ4b35Q7xx26)**
 
 # [Register now](https://yimby.town/#registration=1)
 
