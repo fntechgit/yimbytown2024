@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: About
+title: ""
 userRequirement: NONE
 ---
 ![About the Event](yimbytown-header_about-1-.jpg)
