@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Logistics
+title: ""
 userRequirement: NONE
 ---
 ![](ytown_banner.webp)
