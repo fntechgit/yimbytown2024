@@ -34,7 +34,7 @@ At the heart of the YIMBYtown Conference is our unwavering commitment to making 
 \
 The program is available to anyone who will commit to attending all three days of YIMBYtown, and will be dedicated on a first-come first serve basis.
 
-**[Apply for YIMBYtown 2024 Equitable Access Program](https://forms.gle/b459SRZ4b35Q7xx26)**
+**[Apply for the YIMBYtown 2024 Equitable Access Program](https://forms.gle/b459SRZ4b35Q7xx26)**
 
 
 \
