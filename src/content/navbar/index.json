@@ -118,6 +118,16 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Logistics",
+      "link": "/logistics",
+      "display": true
     }
   ]
 }
