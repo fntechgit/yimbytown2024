@@ -30,7 +30,7 @@
   },
   "leftColumn": {
     "schedule": {
-      "display": false,
+      "display": true,
       "title": "Full Event Schedule"
     },
     "disqus": {
@@ -41,7 +41,7 @@
     },
     "text": {
       "content": "### **Welcome to YIMBYtown 2024**\n\n**Join us in the vibrant and rapidly evolving city of Austin, TX, February 26-28th for the groundbreaking YIMBYtown 2024 conference! AURA and Farm&City are delighted to host the premiere national forum for conversation and collaboration in the movement for abundant, affordable, and sustainable cities. This year, we are celebrating wins across North America, the expansive \"big tent\" nature of our movement, and the burgeoning YIMBY scene in Texas.**\n\n**YIMBYtown, a national gathering for the \"Yes In My Backyard\" movement, unites grassroots community organizers, dedicated educators, political leaders, and housing providers through invaluable discussion and networking opportunities. YIMBYtown aims to inspire attendees to work together by providing unique opportunities to engage and learn about housing policy, advocacy, and community building!**\n\n**If you're interested in getting (more) involved in the pro-housing movement, you should attend! We want \"Y'all In My Backyard!\"**",
-      "display": true
+      "display": false
     }
   },
   "masonry": [
