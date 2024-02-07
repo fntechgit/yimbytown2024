@@ -50,13 +50,14 @@
       "size": 2,
       "images": [
         {
-          "src": "bikeshare.jpg"
+          "src": "open-philanthropy_fullcolor.jpg",
+          "link": "https://www.openphilanthropy.org/",
+          "alt": "Open Philanthropy"
         },
         {
-          "src": "cherrywood_audience.jpg"
-        },
-        {
-          "src": "yimbytown2022.jpg"
+          "src": "av-logo-large.png",
+          "link": "https://www.arnoldventures.org/",
+          "alt": "Arnold Ventures"
         }
       ]
     },
