@@ -76,7 +76,7 @@
       "size": 1,
       "images": [
         {
-          "src": "airbnb_horizontal_cmyk_2019-1-.png",
+          "src": "airbnb_horizontal_cmyk_2019.png",
           "link": "https://www.airbnb.com/",
           "alt": "airbnb"
         },
@@ -86,7 +86,7 @@
           "link": "https://twitter.com/WNNProHousing"
         },
         {
-          "src": "center-for-new-lliberalism-colored-background-3x2-1-.png",
+          "src": "center-for-new-lliberalism-colored-background-3x2-.png",
           "link": "https://cnliberalism.org/",
           "alt": "Center For New Liberalism"
         }
