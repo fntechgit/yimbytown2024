@@ -81,11 +81,6 @@
           "alt": "airbnb"
         },
         {
-          "src": "aarp-logo.jpg",
-          "link": "https://www.aarp.org/",
-          "alt": "AARP"
-        },
-        {
           "src": "wnn-logo.png",
           "alt": "WNN",
           "link": "https://twitter.com/WNNProHousing"
@@ -99,10 +94,46 @@
     },
     {
       "placement": "Bottom Right",
-      "size": 2,
+      "size": 1,
       "images": [
         {
-          "src": "skyline-bluegray484x968.jpg"
+          "src": "mercatus-dkteal-3x.png",
+          "link": "https://www.mercatus.org/",
+          "alt": "Mercatus Center"
+        },
+        {
+          "src": "freopp-multi-dark-blue-on-transparent-1-.png",
+          "link": "https://freopp.org/",
+          "alt": "Foundation For Research on Equal Opportunity"
+        },
+        {
+          "src": "yimby-action-text-right-green-lg.png",
+          "link": "https://new.yimbyaction.org/",
+          "alt": "YIMBY Action"
+        },
+        {
+          "src": "reissa-logo-transparent.png",
+          "link": "https://reissa.org/",
+          "alt": "Reissa Foundation"
+        },
+        {
+          "src": "ausbos-logo-02-1-.png",
+          "alt": "AUS/BOS Social Housing"
+        },
+        {
+          "src": "pacific-legal-logo.png",
+          "link": "https://pacificlegal.org/",
+          "alt": "Pacific Legal"
+        },
+        {
+          "src": "studio-balcones-logo-black.jpg",
+          "link": "https://www.studiobalcones.com/",
+          "alt": "Studio Balcones"
+        },
+        {
+          "src": "plugin-house-logo_black_transparent.png",
+          "alt": "Plugin House",
+          "link": "https://www.pluginhouse.org/"
         }
       ]
     }
