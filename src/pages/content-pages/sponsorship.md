@@ -13,7 +13,7 @@ Thank you to all our generous sponsors!
 
 # **TACO TRUCK - $10,000**
 
-![airbnb](airbnb_horizontal_cmyk_2019.png "https://www.airbnb.com/")
+![](airbnb_horizontal_cmyk_2019.png)
 
 # **BIKE PATH - $5,000**
 
