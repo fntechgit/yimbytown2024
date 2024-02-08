@@ -27,6 +27,24 @@ Thank you to all our generous sponsors!
 
 ![Mercatus Center](mercatus-dkteal-3x.png)
 
+![REISSA Foundation](reissa-logo-transparent.png)
+
+![](pacific-legal-logo.png)
+
+# **Block Party - $500**
+
+![](yimby-action-text-right-green-lg.png)
+
+![](plugin-house-logo_black_transparent.png)
+
+![](studio-balcones-logo-black.jpg)
+
+![](freopp-multi-dark-blue-on-transparent.png)
+
+![](ausbos-logo-02.png)
+
+# **Become A Sponsor!**
+
 We invite firms, corporations, and public entities to join us as sponsors. Your generous contribution will help us cover costs for venue rentals, transportation, guest speakers, workshops, and outreach efforts, and 501c3 projects of AURA and Farm&City to further support for the goals articulated at YIMBYtown. By supporting YIMBYtown 2024, you are investing in the future of housing equity, community empowerment, and social change. All sponsors will receive complimentary passes, recognition, and other brand visibility opportunities commensurate with level of sponsorship.
 
 **BLOCK PARTY - $500**
