@@ -7,7 +7,7 @@ userRequirement: NONE
 
 Thank you to all our generous sponsors!
 
-# **GREENBELT - $25,000**
+# <em>**GREENBELT - $25,000**</em>
 
 ![](open-philanthropy_fullcolor.jpg)![Arnold Ventures](av-logo-large.png "https://www.arnoldventures.org/")
 
