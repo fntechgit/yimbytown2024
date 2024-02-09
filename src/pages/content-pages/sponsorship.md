@@ -9,39 +9,6 @@ userRequirement: NONE
 
 ![](logos_sponsors.png)
 
-# <em>**GREENBELT - $25,000**</em>
-
-![](open-philanthropy_fullcolor.jpg)![Arnold Ventures](av-logo-large.png "https://www.arnoldventures.org/")
-
-# **TACO TRUCK - $10,000**
-
-![](airbnb_horizontal_cmyk_2019.png)
-
-# **BIKE PATH - $5,000**
-
-![WNN](wnn-logo.png "https://twitter.com/WNNProHousing")
-
-![Center For New Liberalism](center-for-new-lliberalism-colored-background-3x2-.png "https://cnliberalism.org/")
-
-# **PLAYGROUND - $1,000**
-
-![Mercatus Center](mercatus-dkteal-3x.png)
-
-![REISSA Foundation](reissa-logo-transparent.png)
-
-![](pacific-legal-logo.png)
-
-# **Block Party - $500**
-
-![](yimby-action-text-right-green-lg.png)
-
-![](plugin-house-logo_black_transparent.png)
-
-![](studio-balcones-logo-black.jpg)
-
-![](freopp-multi-dark-blue-on-transparent.png)
-
-![](ausbos-logo-02.png)
 
 # **Become A Sponsor!**
 
