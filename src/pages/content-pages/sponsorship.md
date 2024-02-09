@@ -5,7 +5,9 @@ userRequirement: NONE
 ---
 ![](yimbytownemailheader.png)
 
-Thank you to all our generous sponsors!
+# Thank you to all our generous sponsors!
+
+![](logos_sponsors.png)
 
 # <em>**GREENBELT - $25,000**</em>
 
