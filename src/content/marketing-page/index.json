@@ -149,6 +149,11 @@
           "src": "plugin-house-logo_black_transparent.png",
           "alt": "Plugin House",
           "link": "https://www.pluginhouse.org/"
+        },
+        {
+          "src": "aic_unapproved.png",
+          "alt": "Austin Infill Coalition",
+          "link": "https://austininfill.org/"
         }
       ]
     }
