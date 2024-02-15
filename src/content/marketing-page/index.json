@@ -89,6 +89,21 @@
           "src": "center-for-new-lliberalism-colored-background-3x2-.png",
           "link": "https://cnliberalism.org/",
           "alt": "Center For New Liberalism"
+        },
+        {
+          "src": "cah.png",
+          "link": "https://capitalahousing.com/",
+          "alt": "Capital A Housing"
+        },
+        {
+          "src": "american-enterprise-institute-logo.png",
+          "alt": "American Enterprise Institute",
+          "link": "https://www.aei.org/centers/housing-center/"
+        },
+        {
+          "src": "aarp-logo.jpg",
+          "alt": "AARP",
+          "link": "https://www.aarp.org/"
         }
       ]
     },
