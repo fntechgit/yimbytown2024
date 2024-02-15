@@ -154,6 +154,11 @@
           "src": "aic_unapproved.png",
           "alt": "Austin Infill Coalition",
           "link": "https://austininfill.org/"
+        },
+        {
+          "src": "prn_square_black.png",
+          "alt": "Parking Reform Network",
+          "link": "https://parkingreform.org/"
         }
       ]
     }
