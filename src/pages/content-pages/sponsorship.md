@@ -7,8 +7,7 @@ userRequirement: NONE
 
 # Thank you to all our generous sponsors!
 
-![](logos_sponsors.png)
-
+![](yimbytown_sponsorbanner.png)
 
 # **Become A Sponsor!**
 
