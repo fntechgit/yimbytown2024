@@ -5,11 +5,13 @@ userRequirement: NONE
 ---
 ![Registration](yimbytown-header_registration-1-.jpg)
 
-We look forward to welcoming you, and together, we can make a meaningful impact in the world of housing and urbanism. We have established three levels of registration.
+We are sold out of tickets for the full conference! There are still tickets available for the Monday evening plenary featuring Julian Castro.
+
+We are still accepting sponsors and there are a few spots for the full conference reserved for sponsors.
 
 # [Register now](https://yimby.town/#registration=1)
 
-**Full Registration - $395**\
+~~Full Registration - $395~~ **Sold Out**\
 Full registration fees contribute to covering a wide range of essential costs that go into making YIMBYtown 2024 a success, including the space for bringing so many people together, food and logistics, as well as speaker costs. We appreciate your support.
 
 ~~Advocate Registration - $195~~ **Sold Out**\
