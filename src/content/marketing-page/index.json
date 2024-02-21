@@ -104,6 +104,11 @@
           "src": "capitalahousing_unapproved.png",
           "link": "https://capitalahousing.com/",
           "alt": "Capital A Housing"
+        },
+        {
+          "src": "inclusive_abundance_unconfirmed.webp",
+          "alt": "Inclusive Abundance Initiative",
+          "link": "https://inclusiveabundance.org/"
         }
       ]
     },
