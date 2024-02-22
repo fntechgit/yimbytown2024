@@ -11,6 +11,11 @@ userRequirement: NONE
 
 # [Register now](https://yimby.town/#registration=1)
 
+Keynote Plenary - 15\
+Come hear a moderated discussion between former HUD secretary Julian Castro and Austin's own Council Member Chito Vela. This promises to be a rich and engaging conversation on the YIMBY movement in Texas!
+
+Venga a escuchar una discusión moderada entre el ex-secretario de Vivienda y Desarrollo Urbano, Julián Castro, y un concejal de la ciudad de Austin, Chito Vela. ¡Promete ser una conversación rica y atractiva sobre el movimiento YIMBY en Texas!
+
 ~~Full Registration - $395~~ **Sold Out**\
 Full registration fees contribute to covering a wide range of essential costs that go into making YIMBYtown 2024 a success, including the space for bringing so many people together, food and logistics, as well as speaker costs. We appreciate your support.
 
@@ -24,11 +29,7 @@ We welcome those who care about building abundant housing and want to attend YIM
 
 At the heart of the YIMBYtown Conference is our unwavering commitment to making participation accessible and inclusive. To that end, we are continuing the YIMBYtown tradition of providing funding to selected eligible attendees, with the goal of making YIMBYtown 2024 as diverse and accessible as the YIMBY communities we work towards. \
 \
-The program is available to anyone who will commit to attending all three days of YIMBYtown, and will be dedicated on a first-come first serve basis.
-
-**[Apply for the YIMBYtown 2024 Equitable Access Program](https://forms.gle/b459SRZ4b35Q7xx26)**
-
-# [Register now](https://yimby.town/#registration=1)
+[Register now](https://yimby.town/#registration=1)
 
 **Media**\
 We expect to make complimentary registrations available to media. If you would like to cover YIMBYtown 2024, please contact us at liz@yimby.town.
