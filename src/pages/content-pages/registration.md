@@ -5,9 +5,9 @@ userRequirement: NONE
 ---
 ![Registration](yimbytown-header_registration-1-.jpg)
 
-We are sold out of tickets for the full conference! There are still tickets available for the Monday evening plenary featuring Julian Castro.
+**We are sold out of tickets for the full conference! There are still tickets available for the Monday evening plenary featuring Julian Castro.**
 
-We are still accepting sponsors and there are a few spots for the full conference reserved for sponsors.
+**We are still accepting sponsors and there are a few spots for the full conference reserved for sponsors.**
 
 # [Register now](https://yimby.town/#registration=1)
 
@@ -19,7 +19,6 @@ We welcome nonprofit staff, volunteer advocates, academics, students, and others
 
 ~~Needs Based Complimentary Registration~~ **Sold Out** \
 We welcome those who care about building abundant housing and want to attend YIMBYtown – but for whom registration cost would be a barrier – to self-select for complimentary registration. This ensures that YIMBYtown remains an inclusive and welcoming platform where voices from all walks of life can come together to explore solutions and drive positive change in the housing landscape. We are immensely grateful to our sponsors for making this commitment to inclusivity possible.
-
 
 ~~Equitable Access Program: Travel and Lodging Subsidies~~ **Closed**
 
