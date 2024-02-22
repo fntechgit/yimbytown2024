@@ -6,7 +6,7 @@
     "time": "Austin, TX",
     "buttons": {
       "registerButton": {
-        "text": "Register For Plenary!",
+        "text": "Plenary Tickets!",
         "display": true
       },
       "loginButton": {
