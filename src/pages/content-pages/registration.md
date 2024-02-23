@@ -14,7 +14,7 @@ userRequirement: NONE
 Keynote Plenary - 15\
 Come hear a moderated discussion between former HUD secretary Julian Castro and Austin's own Council Member Chito Vela. This promises to be a rich and engaging conversation on the YIMBY movement in Texas!
 
-Venga a escuchar una discusión moderada entre el ex-secretario de Vivienda y Desarrollo Urbano, Julián Castro, y un concejal de la ciudad de Austin, Chito Vela. ¡Promete ser una conversación rica y atractiva sobre el movimiento YIMBY en Texas!
+Ven a escuchar el discurso de apertura del ex secretario de HUD, Julián Castro, seguido de una discusión y preguntas y respuestas con el propio concejal de Austin, Chito Vela.
 
 ~~Full Registration - $395~~ **Sold Out**\
 Full registration fees contribute to covering a wide range of essential costs that go into making YIMBYtown 2024 a success, including the space for bringing so many people together, food and logistics, as well as speaker costs. We appreciate your support.
